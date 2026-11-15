@@ -25,7 +25,6 @@ All raw sequencing reads and processed count matrices have been deposited in the
 ```text
 ├── README.md
 ├── LICENSE
-├── .gitignore
 ├── envs/                                     # Conda and R environment templates
 │   ├── chipseq_env.yml
 │   ├── r_sessioninfo.txt
