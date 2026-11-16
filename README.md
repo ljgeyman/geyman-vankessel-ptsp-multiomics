@@ -1,6 +1,6 @@
 # geyman-vankessel-ptsp-multiomics
 
-[![DOI](https://zenodo.org/badge/DOI/[INSERT_ZENODO_DOI_HERE].svg)](https://doi.org/[INSERT_ZENODO_DOI_HERE])
+[![DOI](https://zenodo.org/badge/1417790341.svg)](https://doi.org/10.5281/zenodo.24288965)
 
 This repository contains the complete bash preprocessing and R statistical pipelines used for the transcriptomic and DNA-binding analyses in:
 
